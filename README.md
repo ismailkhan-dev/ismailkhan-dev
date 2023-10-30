@@ -1,25 +1,25 @@
 # Hello, I'm Ismail Khan 👋
 
-I'm a software engineer based in Toronto, Canada, with a focus on web development, full-stack development, and test automation. I love coding, solving problems, and building software that makes a positive impact.
+I'm a full-stack developer from Toronto, Canada 🇨🇦. I specialize in web development, full-stack development, and test automation. I love coding, solving problems, and building software that makes a positive impact.
 
-Currently, I work as a Senior Test Engineer at The Home Depot Canada in Toronto.
+I currently work as a Software Developer at The Home Depot Canada in Toronto.
 
 🌐 **Portfolio:** [ismailkhan-dev.github.io](https://ismailkhan-dev.github.io/projects)
 
 ## 🔧 Technologies & Tools
 
-- **Frontend:** HTML, CSS, JavaScript, Angular
-- **Backend:** Python, Flask, Node.js, Express.js
-- **Databases:** PostgreSQL
+- **Frontend:** TypeScript, JavaScript, Angular, TailwindCSS, SCSS, React
+- **Backend:** Node.js, Express.js, Java, Python
+- **Databases:** PostgreSQL, Firebase, MongoDB
+- **Automation** Jasmine, WebdriverIO, Selenium
 - **DevOps:** Docker, CI/CD (GitHub Actions, Jenkins)
-- **Version Control:** Git, GitHub, Bitbucket
-- **Other:** RESTful APIs, Firebase
+- **Other:** RESTful APIs, 
 
 ## 🌱 What I'm Learning
 
 I'm always eager to learn new technologies and improve my skills. Currently, I'm diving deeper into:
 
-- React, Redux, Next.js, and Vue.js
+- React, Redux, and Next.js
 - Software Engineering design patterns
 - Data Structures & Algorithms via Leetcode
 
