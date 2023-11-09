@@ -2,18 +2,18 @@
 
 I'm a full-stack developer from Toronto, Canada 🇨🇦. I specialize in web development, full-stack development, and test automation. I love coding, solving problems, and building software that makes a positive impact.
 
-I currently work as a Software Developer at The Home Depot Canada in Toronto.
+I currently work as a Software Developer at The Home Depot Canada.
 
-🌐 **Portfolio:** [ismailkhan-dev.github.io](https://ismailkhan-dev.github.io/projects)
+🌐 **Portfolio:** [ismailkhan.dev](https://ismailkhan.dev)
 
 ## 🔧 Technologies & Tools
 
-- **Frontend:** TypeScript, JavaScript, Angular, TailwindCSS, SCSS, React
-- **Backend:** Node.js, Express.js, Java, Python
+- **Frontend:** TypeScript, JavaScript, Angular, TailwindCSS, SCSS
+- **Backend:** Node.js, Express.js, Java, Python, SQL
 - **Databases:** PostgreSQL, Firebase, MongoDB
 - **Automation** Jasmine, WebdriverIO, Selenium
 - **DevOps:** Docker, CI/CD (GitHub Actions, Jenkins)
-- **Other:** RESTful APIs, 
+- **Cloud:** GCP
 
 ## 🌱 What I'm Learning
 
@@ -21,7 +21,7 @@ I'm always eager to learn new technologies and improve my skills. Currently, I'm
 
 - React, Redux, and Next.js
 - Software Engineering design patterns
-- Data Structures & Algorithms via Leetcode
+- Data Structures & Algorithms
 
 ## 📄 Resume
 
