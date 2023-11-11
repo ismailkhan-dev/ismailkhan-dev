@@ -4,7 +4,7 @@ I'm a full-stack developer from Toronto, Canada 🇨🇦. I specialize in web de
 
 I currently work as a Software Developer at The Home Depot Canada.
 
-🌐 **Portfolio:** [ismailkhan.dev](https://ismailkhan.dev)
+🌐 **Portfolio:** [www.ismailkhan.dev](https://www.ismailkhan.dev)
 
 ## 🔧 Technologies & Tools
 
