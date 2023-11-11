@@ -25,7 +25,7 @@ I'm always eager to learn new technologies and improve my skills. Currently, I'm
 
 ## 📄 Resume
 
-You can find more about my work experience and education in my [resume](https://ismailkhan-dev.github.io/cv).
+You can find more about my work experience and education in my [resume](https://www.ismailkhan.dev).
 
 ## 📫 Let's Connect
 
