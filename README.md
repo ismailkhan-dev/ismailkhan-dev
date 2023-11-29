@@ -1,8 +1,6 @@
 # Hello, I'm Ismail Khan 👋
 
-I'm a full-stack developer from Toronto, Canada 🇨🇦. I specialize in full-stack web development and test automation. I love coding, solving problems, and building software that makes a positive impact.
-
-I currently work as a Software Developer at The Home Depot Canada.
+I'm a full-stack developer from Canada 🇨🇦. I specialize in full-stack web development and test automation. I love coding, solving problems, and building software that makes a positive impact.
 
 🌐 **Portfolio:** [www.ismailkhan.dev](https://www.ismailkhan.dev)
 
