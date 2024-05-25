@@ -1,6 +1,6 @@
 # Hello, I'm Ismail Khan 👋
 
-I'm a full-stack developer from Canada 🇨🇦. I specialize in full-stack web development and test automation. I love coding, solving problems, and building software that makes a positive impact.
+I'm a full-stack developer currently working as a scrum master from Canada 🇨🇦. I specialize in full-stack web development and enterprise test automation. I love coding, solving problems, and building software that makes a positive impact.
 
 🌐 **Portfolio:** [www.ismailkhan.dev](https://www.ismailkhan.dev)
 
